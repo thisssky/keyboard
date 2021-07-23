@@ -40,11 +40,13 @@ https://post.smzdm.com/p/a5kqdzwk/
 
 https://post.smzdm.com/p/akmgx078/
 
+https://post.smzdm.com/p/ar07vrkx/
 
 
 
+https://www.pjrc.com/store/teensy.html
 
-
+https://www.pjrc.com/teensy/first_use.html
 
 
 
@@ -53,6 +55,26 @@ https://www.zfrontier.com/app/flow/400nXExavNR8
 https://www.zfrontier.com/app/flow/4oyGyvGbzQoO
 
 https://www.zfrontier.com/app/flow/4oyGyvGbzQoO
+
+
+
+https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/hardware-overview-pro-micro#Teensy++_2.0
+
+
+
+
+
+
+
+
+
+usbhost shield
+
+https://post.smzdm.com/p/apzk2q6x/
+
+https://post.smzdm.com/p/alpo7gqg/
+
+
 
 lenveo
 
