@@ -25,4 +25,7 @@
 #define DIODE_DIRECTION COL2ROW
 #define MK_3_SPEED
 
+#define TAPPING_TERM 175
+#define TAPPING_TERM_PER_KEY
+
 #endif
